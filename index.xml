@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uday Pandey</title>
+    <link>http://www.udaypandey1.github.io/hugo/</link>
+    <description>Recent content on Uday Pandey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.udaypandey1.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.udaypandey1.github.io/hugo/about/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.udaypandey1.github.io/hugo/about/</guid>
+      <description>I am Uday Pandey. I am a third year medical student in Kathmandu, Nepal.</description>
+    </item>
+    
+    <item>
+      <title>Used Hugo</title>
+      <link>http://www.udaypandey1.github.io/hugo/posts/used-hugo/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.udaypandey1.github.io/hugo/posts/used-hugo/</guid>
+      <description>I made a website Link to heading And it wasn&amp;rsquo;t that difficult. Just had to work on this for a few hours.
+I got my free domain last week. I have a github account and a basic static webpage hosted on Github pages and linked to my custom domain through Cloudflare. Now, I&amp;rsquo;m going to use Hugo to make it better.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.udaypandey1.github.io/hugo/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.udaypandey1.github.io/hugo/contact/</guid>
+      <description>My socials.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.udaypandey1.github.io/hugo/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.udaypandey1.github.io/hugo/projects/</guid>
+      <description>Coming soon&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
